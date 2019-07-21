@@ -1,10 +1,10 @@
 {
   "name": "@rapin/inky",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Rapin Inky",
   "main": "lib/index.js",
   "typings": "types/index.d.ts",
-  "repository": "https://github.com/krasaler/rapin-inky.git",
+  "repository": "https://github.com/rapinjs/inky.git",
   "author": "Alex Krasnij <krasaler@gmail.com>",
   "license": "MIT",
   "files": [
