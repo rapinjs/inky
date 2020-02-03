@@ -23,7 +23,7 @@
     "juice": "^5.2.0"
   },
   "devDependencies": {
-    "@types/node": "^12.6.8",
+    "@types/node": "^13.7.0",
     "rimraf": "^2.6.3",
     "tslint": "^5.18.0",
     "typescript": "^3.5.3"
